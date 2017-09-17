@@ -173,7 +173,8 @@ a:hover, a:active {
   width: 40%;
   -webkit-background-size: cover;
   background-size: cover;
-  background-color: #fff;
+  /*background-color: #fff;*/
+  background-color: #f6f6f6;
   height: 100%;
   transition: 0.8s;
   top: 0;
@@ -392,7 +393,8 @@ a:hover, a:active {
   position: absolute;
   width: 100%;
   padding-bottom: 20px;
-  background: #fff;
+  /*background: #fff;*/
+  background: #f6f6f6;
 }
 .footer a {
   color: #A6A6A6;

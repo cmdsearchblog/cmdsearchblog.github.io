@@ -456,10 +456,10 @@ dl dt {
     margin-bottom: 1em;
 }
 
-.main .post .post-title a {
+.main .post .post-title a.meaning {
       text-transform: none;
       font-size: 0.75rem;
-      /*color: #1a0dab;*/
+      color: #1a0dab;
 }
 
 pre {
@@ -633,6 +633,9 @@ pre,
   color: #666;
 }
 
+.sidebar-form .input-group {
+    background-color: white;
+}
 .sidebar-form .btn {
   color: #999;
   border-top-left-radius: 0;
